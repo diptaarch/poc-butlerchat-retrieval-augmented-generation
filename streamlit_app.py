@@ -134,11 +134,11 @@ with st.sidebar:
     **Archipelago International** is Southeast Asia's largest privately owned hospitality group with 13 award-winning hotel brands.
     
     ### Ask About:
-    - 🏨 Hotel brands (ASTON, Huxley, ALANA, etc.)
-    - 📍 Properties and locations
-    - 🎯 Services and amenities
-    - 💳 Membership programs
-    - 📚 Company information
+    - Hotel brands (ASTON, Huxley, ALANA, etc.)
+    - Properties and locations
+    - Services and amenities
+    - Membership programs
+    - Company information
     
     ### Tips:
     - Be specific in your questions
