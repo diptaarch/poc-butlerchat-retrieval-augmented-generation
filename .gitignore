@@ -30,7 +30,6 @@ env/
 ehthumbs.db
 
 # Project specific
-chroma_data/
+# chroma_data/ - UNCOMMENT to ignore chroma data (included in repo for Streamlit deployment)
 *.db
-*.sqlite3
 .pytest_cache/
